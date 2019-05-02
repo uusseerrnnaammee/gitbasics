@@ -165,7 +165,6 @@ pre {
 	word-wrap: break-word;
 	overflow: auto;
 }
-
 /* Specific elements
  ========================================================================*/
  header,main,footer {
@@ -194,9 +193,6 @@ header h1 {
 	 padding: 2em;
 	 font-size: 0.8em;
  }
-
-
-
 /* Forms
    ========================================================================== */
 
